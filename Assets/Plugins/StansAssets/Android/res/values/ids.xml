@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">584286176793</string>
+  <string name="achievement_5_points__beginners_luck">CgkImYyu0YAREAIQAg</string>
+  <string name="achievement_10_points__jazz_hands">CgkImYyu0YAREAIQAw</string>
+  <string name="achievement_20_points__score">CgkImYyu0YAREAIQBA</string>
+  <string name="achievement_30_points__pearl">CgkImYyu0YAREAIQBQ</string>
+  <string name="achievement_whats_going_on">CgkImYyu0YAREAIQBg</string>
+  <string name="achievement_40_points__unstoppable">CgkImYyu0YAREAIQBw</string>
+  <string name="achievement_50_points__diamond">CgkImYyu0YAREAIQCQ</string>
+  <string name="leaderboard_top_scores">CgkImYyu0YAREAIQAQ</string>
+  <string name="event_total_points">CgkImYyu0YAREAIQCA</string>
+</resources>

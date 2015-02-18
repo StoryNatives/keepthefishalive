@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Screenshot.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/Game.cs" Line="48" Column="52" />
+      <File FileName="Assets/Plugins/Android/res/values/ids.xml" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/StansAssets/Android/res/values/ids.xml" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/GoogleMobileAdsDemoScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Bird.cs" Line="20" Column="29" />
+      <File FileName="Assets/_Scripts/Spot.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Side.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Achievements.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Leaderboards.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Screenshot.cs" Line="30" Column="109" />
+      <File FileName="Assets/_Scripts/Rate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/TutorialChange.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Share.cs" Line="1" Column="1" />
+      <File FileName="Assets/Extensions/AndroidNative/Other/Features/AndroidSocialGate.cs" Line="1" Column="1" />
+      <File FileName="Assets/QuickSave/Example/ExampleJava.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/MusicChange.cs" Line="27" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
